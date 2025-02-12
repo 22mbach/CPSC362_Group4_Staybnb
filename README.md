@@ -1,29 +1,25 @@
-# CPSC362_Group4_Staybnb
-
-Goup #4 
-Bryan Chavez
-Dyllan Phan
-Ricardo Rodriguez
-Yonis Salah
-Isaac Bach
-
+Team Members:
+- Bryan Chavez
+- Dyllan Phan
+- Ricardo Rodriguez
+- Yonis Salah
+- Isaac Bach
 
 Company Name: Staybnb
 
+Vision Statement
+Providing affordable getaways for individuals and families, ensuring a comfortable and home-like travel experience.
 
-Vision statement: affordable getaways for individuals or families to travel and still feel at home. 
+Functional Requirements:
+✔️ Users can make reservations and cancellations easily.
+✔️ Users can create accounts to store personal information securely.
+✔️ The platform displays listings from various cities for convenient browsing.
+✔️ Secure transaction processing within the application.
+✔️ Users’ search history is saved for personalized recommendations.
 
-Functional requirements
-The ability to make reservations or cancellations
-You can make an account that will store your personal information 
-Show listings from different cities that you want to stay at
-Process transactions from the application 
-Your search history will be saved 
-
-
-Nonfunctional requirements: 
-Insuring customer safety by using background checks to prevent fraud
-Customer service will be available all hours of the day. 
-Customers will be notified a week and 2 days prior to reservation incase of unexpected cancellation
-Low latency transaction/payments
-Complies with local tendencies laws
+Non-Functional Requirements:
+✅ Customer safety is a priority, ensured through background checks to prevent fraud.
+✅ 24/7 customer support to assist users at all times.
+✅ Reservation reminders sent one week and two days before check-in to prevent unexpected cancellations.
+✅ Fast and reliable transactions with minimal latency.
+✅ Legal compliance with local tenancy laws.
